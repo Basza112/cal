@@ -1,0 +1,7 @@
+import os, sys
+os.system("figlet GodXD")
+
+A = input("Number : ")
+B = input("Number : ")
+
+print (A + B)
